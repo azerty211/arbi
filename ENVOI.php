@@ -13,7 +13,7 @@
         <a href="MERCEDES.html"><button>MERCEDES</button></a>
         <a href="AUDI.html"><button>AUDI</button></a>
         <a href="PORSCHE.html"><button>PORSCHE</button></a>
-        <a href="BDD.html"><button>Accueil</button></a>
+        <a href="index.html"><button>Accueil</button></a>
         <br>
         <section><br>
             C'est bien le message que vous voulez envoyer 
@@ -45,3 +45,4 @@
     </center>
 </body>
 </html>
+
