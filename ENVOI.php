@@ -22,7 +22,7 @@
             
 
             <?php
-            $texte = $_POST["user_Poids"];
+            $texte = $_POST["user_message"];
             echo $texte;
 
             ?>
@@ -45,4 +45,5 @@
     </center>
 </body>
 </html>
+
 
